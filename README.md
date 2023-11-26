@@ -4,7 +4,7 @@
 - 📫 Feel free to reach me at kiki.thetomatoes@gmail.com
 
   
-# More About Me
+# 🍄 More About Me
 - 👀 I’m interested in web development, knitting and music
 - 🏃 I've been jogging since Jan 2023. I used to hate running, but I'm in the process of turning something I hated into something I enjoy
 
