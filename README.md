@@ -6,7 +6,7 @@
   
 # More About Me
 - 👀 I’m interested in web development, knitting and music
-- 🏃 I've been jogging since Jan 2023. I used to hate running, but I'm in the process of turning something I hate into something I enjoy
+- 🏃 I've been jogging since Jan 2023. I used to hate running, but I'm in the process of turning something I hated into something I enjoy
 
 <!---
 kiki-tomato/kiki-tomato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
