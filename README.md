@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Kiki
+- 👩‍💻 I'm a front-end developer.
 - 🌱 I've been learning to code since Sep 2023. (JavaScript, React, HTML, CSS)
 - 💞️ I’m looking to collaborate on building web applications with you.
 - 📫 Feel free to reach me at kiki.thetomatoes@gmail.com
