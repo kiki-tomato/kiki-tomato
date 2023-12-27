@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Kiki
+# 👋 Hi, I’m Jihyun
 - 👩‍💻 I'm a front-end developer.
-- 🌱 I've been learning to code since Sep 2023. (JavaScript, React, Bootstrap, HTML, CSS, SCSS)
+- 🌱 I build web apps with JavaScript, React, Bootstrap, HTML, CSS, SCSS
 - 💞️ I’m looking to collaborate on building web applications with you.
-- 📫 Feel free to reach me at kiki.thetomatoes@gmail.com
+- 📫 Feel free to reach me at jihyun_bae@icloud.com
 
   
 # 🍄 More About Me
